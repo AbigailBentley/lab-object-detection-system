@@ -85,7 +85,7 @@ The model was tested across multiple confidence thresholds to optimise performan
 
 ## 📈 Performance Visualisation
 
-
+![Performance Graph](data/data_visualisation/accuracy_vs_confidence_score.png)
 
 ---
 
